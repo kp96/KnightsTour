@@ -19,8 +19,11 @@ public class KnightsTour extends Applet implements MouseListener,ActionListener,
 	/*
 
   	<applet code = "KnightsTour" width = 1366 height = 768> </applet>
-	 
+	
 	*/
+	
+	//Author : Krishna Pavan KV krishnakalubandi@gmail.com 
+	
 	
 	
 	private static final long serialVersionUID = 1L;
